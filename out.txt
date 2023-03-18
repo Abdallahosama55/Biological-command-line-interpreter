@@ -1,0 +1,7 @@
+*Alignment* 
+sequence: gi|1503253460|gb|MK114118.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, partial genome
+length:18936
+e value:2.99447e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
